@@ -62,4 +62,10 @@ terraform destroy --auto-approve
 
 ![terraform destroy --auto-approve"](resources/img-6.jpeg)
 
+<p>
+Now we can see in the aws platform our instance has stopped:
+</p>
+
+<brz>
+
 ![terraform destroy --auto-approve"](resources/img-8.jpeg)
